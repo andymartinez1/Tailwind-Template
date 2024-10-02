@@ -1,0 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+
+@tailwind base; /* html tags: ul, div, span, h1, h2, etc */
+@tailwind components; /* buttons, forms, cards, etc */
+@tailwind utilities; /* margin, padding, text color, text-xl, font-bold, p-2 */
